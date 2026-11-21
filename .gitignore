@@ -1,0 +1,15 @@
+# macOS / Windows system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+Desktop.ini
+
+# Orange Data Mining / Python temporary files
+*.ows~
+*.bak
+*.tmp
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
